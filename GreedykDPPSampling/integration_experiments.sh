@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#python3 -m IntegrationExperiments.experimentscripts.bratley_function
+#python3 -m IntegrationExperiments.experimentscripts.continuous_integrand_family
+#python3 -m IntegrationExperiments.experimentscripts.corner_peak_integrand_family
+python3 -m IntegrationExperiments.experimentscripts.discontinuous_integrand_family
+#python3 -m IntegrationExperiments.experimentscripts.g_function
+#python3 -m IntegrationExperiments.experimentscripts.gaussian_peak_integrand_family
+#python3 -m IntegrationExperiments.experimentscripts.morokoff_caflisch_function1
+#python3 -m IntegrationExperiments.experimentscripts.morokoff_caflisch_function2
+#python3 -m IntegrationExperiments.experimentscripts.oscillatory_integrand_family
+python3 -m IntegrationExperiments.experimentscripts.product_peak_integrand_family
+#python3 -m IntegrationExperiments.experimentscripts.roos_arnold_function
+#python3 -m IntegrationExperiments.experimentscripts.zhou_function
